@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+for
+&&, ||, !
+
+
+El for es cuando trato de hacer algo una y otra vez, donde repito y repito y repito y repito, eso es un for, este me sirve para hacer algo muchas veces para lograr hacer una tarea
+
+&& este me permite elegir entre dos elementos y saber si dos personas me dicen la verdad, si los dos dicen la verdad aparecerá que es verdad, si uno dice una mentira aparecerá mentira
+
+|| este me permite analizar dos mensajes de mis amigos, si ambos me dicen mentiras saldra que es mentira en caso contrario será verdad, no importa que solo uno de ellos diga una mentira
+
+! es una forma de cambiar una verdad por una mentira, si me dice la verdad este simbolo lo cambiará por una mentira.
+
+
